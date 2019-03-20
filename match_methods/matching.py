@@ -1,4 +1,5 @@
-from matching_functions import *
+from match_exact import *
+from match_approx import *
 
 class match(object):
 
